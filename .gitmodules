@@ -1,0 +1,3 @@
+[submodule "jasmine-snippets"]
+	path = jasmine-snippets
+	url = https://github.com/BrunoGrasselli/jasmine-snippets.git
